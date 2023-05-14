@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @HengkiAgung
-- 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning VueJS
+- 👀 I’m interested a Web and Application Developer
 - 💞️ I’m looking to collaborate on programming
-- 📫 How to reach me ig: hengki.agung
+- 📫 How to reach me instagram: @hengki.agung
 
 <!---
 HengkiAgung/HengkiAgung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
